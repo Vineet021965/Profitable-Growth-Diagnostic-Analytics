@@ -19,7 +19,8 @@
 | Total Orders | **96,478** |
 | Total Customers | **93,358** |
 | Contribution Margin | **6.14%** |
-(images/dashboard.png)
+
+![Dashboard Preview](images/dashboard.png)
 
 ---
 
