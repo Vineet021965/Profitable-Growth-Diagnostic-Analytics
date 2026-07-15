@@ -105,12 +105,6 @@ Executive Recommendations
 
 ---
 
-# Dashboard Preview
-
-![Dashboard](images/dashboard.png)
-
----
-
 # Key Business Insights
 
 ### Revenue Growth
